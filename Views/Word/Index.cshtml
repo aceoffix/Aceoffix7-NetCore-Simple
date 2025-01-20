@@ -1,0 +1,24 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript">
+        function SaveDoc() {
+            aceoffixctrl.WebSave();
+        }
+
+        function OnAceoffixCtrlInit() {
+            aceoffixctrl.AddCustomToolButton("Save", "SaveDoc()", 1);
+        }
+    </script>
+</head>
+<body>
+    <div style=" width:auto; height:98vh;">
+        @Html.Raw(ViewBag.aceCtrl)
+    </div>
+</body>
+</html>
