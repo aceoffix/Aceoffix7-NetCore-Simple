@@ -1,6 +1,6 @@
 # Aceoffix7-NetCore-Simple
 
-**Latest Version：7.0.0.2**
+**Latest Version：7.0.1.1**
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The Aceoffix7-NetCore-Simple project demonstrates how to use the Aceoffix 7.0 pr
 
 - Download the Aceoffix client program.
 
-  [aceclientsetup_7.0.0.2.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.0.2/aceclientsetup_7.0.0.2.exe)
+  [aceclientsetup_7.0.1.1.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.1.1/aceclientsetup_7.0.1.1.exe)
 
 - Copy the program downloaded in the previous step to the root directory of the current project.
 
@@ -39,7 +39,7 @@ The Aceoffix7-NetCore-Simple project demonstrates how to use the Aceoffix 7.0 pr
 
 - Download the Aceoffix client program.
 
-​    [aceclientsetup_7.0.0.2.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.0.2/aceclientsetup_7.0.0.2.exe)
+​    [aceclientsetup_7.0.1.1.exe](https://github.com/aceoffix/aceoffix7-client/releases/download/v7.0.0.2/aceclientsetup_7.0.1.1.exe)
 
 - Copy the program downloaded in the previous step to the root directory of your project. Then, in Visual Studio, right - click on the program and change the value of "Properties -> Copy to Output Directory" to "Copy always".
 
