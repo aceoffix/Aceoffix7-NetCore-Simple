@@ -1,6 +1,6 @@
 # Aceoffix7-NetCore-Simple
 
-**Latest Version：7.1.1.1**
+**Latest Version：7.1.1.2**
 
 ### 1. Introduction
 
